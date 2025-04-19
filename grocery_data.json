@@ -1,0 +1,17 @@
+[
+    {
+        "name": "sugar",
+        "quantity": 50,
+        "price": 23.0
+    },
+    {
+        "name": "dal",
+        "quantity": 34,
+        "price": 132.0
+    },
+    {
+        "name": "greendal",
+        "quantity": 34,
+        "price": 45.0
+    }
+]
